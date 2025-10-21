@@ -2,6 +2,15 @@
 
 An interactive web-based platform that visually demonstrates how popular algorithms work step-by-step.
 The project aims to make learning algorithms intuitive and engaging through dynamic visualizations, animations, and complexity insights.
+
+---
+
+
+## 🌐 Live Demo
+🎯 **Try it here:** [Algorithm Visualizer — Live Demo]((https://bardawalram.github.io/Algorithm-Visualizer/))
+
+  > Built with HTML, CSS, and JavaScript to help students visualize sorting and searching algorithms dynamically.
+
 ---
 # 🚀 Overview
 The Algorithm Visualizer provides a graphical representation of various algorithms, such as:
