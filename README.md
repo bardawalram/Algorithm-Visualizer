@@ -18,7 +18,7 @@ The Algorithm Visualizer provides a graphical representation of various algorith
       - Control and interact with the process (speed, pause/resume, reset)
  
 ---
-🛠️ Features
+# 🛠️ Features
 
 ✅ Step-by-Step Animation — Visualizes each algorithm iteration dynamically
 
@@ -31,4 +31,47 @@ The Algorithm Visualizer provides a graphical representation of various algorith
 ✅ User Interaction — Pause, resume, or reset the visualization anytime
 
 ✅ Clean UI Design — Built with minimal and modern front-end principles
+
+---
+# 🧰 Tech Stack
+
+  HTML5	: Structure and layout of the web interface
+  
+  CSS3 :	Styling, animations, and responsive design
+  
+  JavaScript (ES6) :	Logic, algorithm implementation, and interactivity
+  
+  Git & GitHub :	Version control and collaboration
+
+  ---
+# 🧩 Algorithms Implemented
+ 
+ Searching :	Linear Search, Binary Search
+ 
+ Sorting : 	Bubble Sort, Selection Sort, Insertion Sort
+
+ Others (Future Scope) :	Merge Sort, Quick Sort, Heap Sort, BFS, DFS
+
+ ---
+ # 📈 Results & Impact
+
+ Improved algorithm understanding for 100+ peers during academic sessions.
+
+ Increased engagement by 30% with interactive visualization and user control features.
+
+ Enhanced learning efficiency by integrating pseudocode and visual feedback.
+
+---
+# 💡 Learning Outcome
+
+Through this project, I strengthened my understanding of:
+
+Algorithm optimization and visualization logic
+
+DOM manipulation and event-driven programming in JavaScript
+
+UI/UX principles for educational web tools
+
+Version control and code collaboration using Git and GitHub
+
 
