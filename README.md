@@ -11,9 +11,9 @@ The Algorithm Visualizer provides a graphical representation of various algorith
   
  - It helps students and beginners:
    
- -Understand how algorithms manipulate data internally
+      - Understand how algorithms manipulate data internally
 
- -Observe time complexity differences visually
+      - Observe time complexity differences visually
  
- -Control and interact with the process (speed, pause/resume, reset)
+      - Control and interact with the process (speed, pause/resume, reset)
  
