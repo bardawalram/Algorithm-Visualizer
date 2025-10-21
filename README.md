@@ -5,11 +5,12 @@ The project aims to make learning algorithms intuitive and engaging through dyna
 # 🚀 Overview
 The Algorithm Visualizer provides a graphical representation of various algorithms, such as:
 
- Searching Algorithms: Linear Search, Binary Search
+- Searching Algorithms: Linear Search, Binary Search
  
 - Sorting Algorithms: Bubble Sort, Selection Sort, Insertion Sort (extendable to Merge Sort, Quick Sort, etc.)
   
  - It helps students and beginners:
+   
  -Understand how algorithms manipulate data internally
 
  -Observe time complexity differences visually
