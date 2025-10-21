@@ -7,10 +7,9 @@ The project aims to make learning algorithms intuitive and engaging through dyna
 
 
 ## 🌐 Live Demo
-🎯 **Try it here:** [Algorithm Visualizer — Live Demo]((https://bardawalram.github.io/Algorithm-Visualizer/))
+🎯 **Try it here:** [Algorithm Visualizer — Live Demo](https://bardawalram.github.io/Algorithm-Visualizer/)
 
-  > Built with HTML, CSS, and JavaScript to help students visualize sorting and searching algorithms dynamically.
-
+> Built with HTML, CSS, and JavaScript to help students visualize sorting and searching algorithms dynamically.
 ---
 # 🚀 Overview
 The Algorithm Visualizer provides a graphical representation of various algorithms, such as:
