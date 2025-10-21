@@ -17,3 +17,12 @@ The Algorithm Visualizer provides a graphical representation of various algorith
  
       - Control and interact with the process (speed, pause/resume, reset)
  
+---
+🛠️ Features
+
+✅ Step-by-Step Animation — Visualizes each algorithm iteration dynamically
+✅ Speed Control Slider — Adjust execution speed for better understanding
+✅ Pseudocode Highlighting — Highlights corresponding code line during execution
+✅ Complexity Display — Shows real-time time and space complexity
+✅ User Interaction — Pause, resume, or reset the visualization anytime
+✅ Clean UI Design — Built with minimal and modern front-end principles
